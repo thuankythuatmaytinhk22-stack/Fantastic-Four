@@ -1,4 +1,6 @@
 🎙️ Thiết kế và triển khai máy thu – phát âm thanh dùng ESP32-C3
+Vì video demo có kích thước lớn nên không thể up lms trực tiếp, nhóm chúng em tải lên drive:
+link: https://drive.google.com/file/d/10D8TMGBhoeZYpL0WVVUIxdDXnMHbZPSO/view?fbclid=IwY2xjawO1lr9leHRuA2FlbQIxMABicmlkETFnWUh3Q3Y0QlNzSlI5Zlhxc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHl37JoITqtvMKIcamyp4SS7s2WZxVAbkgEicD0U8gb8Z_6g1De3oC6DFvExr_aem_VCmWDljzjGK7CL0Nj_QLBw
 1. Giới thiệu
 
 Trong bối cảnh các hệ thống nhúng ngày càng được ứng dụng rộng rãi, việc xây dựng một thiết bị thu âm và phát lại âm thanh độc lập có ý nghĩa thực tiễn cao trong học tập và nghiên cứu.
