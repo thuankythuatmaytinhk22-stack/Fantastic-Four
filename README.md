@@ -26,7 +26,7 @@ Thu tín hiệu từ microphone I2S
 
 Lưu dữ liệu trực tiếp vào thẻ SD
 
-💾 Lưu trữ file WAV
+💾 Lưu trữ fifle WAV
 
 Định dạng WAV 16-bit, 16 kHz, mono
 
@@ -166,17 +166,8 @@ Wire
 Dự án đã xây dựng thành công một máy ghi âm kỹ thuật số độc lập sử dụng ESP32-C3, đáp ứng đầy đủ các chức năng thu, lưu trữ, phát lại và quản lý âm thanh.
 Hệ thống có cấu trúc rõ ràng, dễ mở rộng và phù hợp cho các bài tập lớn, đồ án môn học hoặc nghiên cứu về xử lý âm thanh trên vi điều khiển.
 
-11. Hướng phát triển
-
-Hiển thị thời gian ghi âm
-
-Ghi âm stereo
-
-Gửi file qua WiFi / Bluetooth
-
-Xây dựng menu điều khiển nâng cao
 
 👤 Tác giả
 
-Thuận Đinh
-Dự án học tập và nghiên cứu hệ thống nhúng – ESP32-C3
+Nhóm Fantastic Four
+Dự án học tập môn Kỹ thuật vi xử lý
